@@ -1,0 +1,33 @@
+{
+  "name": "drupal/dropzonejs",
+  "description": "Drupal integration for DropzoneJS - An open source library that provides drag’n’drop file uploads with image previews.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/dropzonejs",
+  "keywords": ["Drupal", "DropzoneJS"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/dropzonejs",
+    "irc": "irc://irc.freenode.org/drupal-contribute",
+    "source": "https://www.drupal.org/project/dropzonejs"
+  },
+  "authors": [
+    {
+      "name": "Janez Urevc",
+      "homepage": "drupal.org/u/slashrsm",
+      "role": "Maintainer"
+    },
+    {
+      "name": "John McCormick",
+      "homepage": "drupal.org/u/neardark",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Primoz Hmeljak",
+      "homepage": "drupal.org/u/Primsi",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {}
+}
